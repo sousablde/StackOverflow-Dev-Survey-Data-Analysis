@@ -14,7 +14,8 @@
 This dataset is a great example of how sometimes data science allows the discovery of many insights on data without
 having to go through data modelling.
 The modelling portion of the project ended up providing many of the same conclusions that had been achieved with just 
-a descriptive approach.
+a descriptive approach. The focus was on understanding the conditions that lead to higher job satisfaction and if participating 
+in bootcamps has a positive effect on employment status.
 
 ## File Description
 
